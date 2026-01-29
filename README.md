@@ -140,3 +140,4 @@ The initial setup for this python project was created following the
 
 Now Forked by Frone
 
+Singlehandedly revising it like for real
